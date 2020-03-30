@@ -123,6 +123,7 @@ class ChangeSmall extends Eatable{
 					1, 1, 5, 0, 1);
 		}
 		jumpRect.scale(-0.6f);
+		//456
 	}
 }
 class ChangeBig extends Eatable{
